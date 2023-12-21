@@ -1,0 +1,6 @@
+framework module RCUserCenter {
+  umbrella header "RCUserCenter-umbrella.h"
+
+  export *
+  module * { export * }
+}

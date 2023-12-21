@@ -1,0 +1,16 @@
+PODS:
+  - RCUserCenter (0.1.0)
+
+DEPENDENCIES:
+  - RCUserCenter (from `../`)
+
+EXTERNAL SOURCES:
+  RCUserCenter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RCUserCenter: 35db4f8aa3d162aac35cbcb3f2c407ea2d324054
+
+PODFILE CHECKSUM: 642b94cfb155e280f3bd6739b6a7391926c5917c
+
+COCOAPODS: 1.14.3

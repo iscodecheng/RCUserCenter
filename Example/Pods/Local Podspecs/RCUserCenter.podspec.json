@@ -1,0 +1,22 @@
+{
+  "name": "RCUserCenter",
+  "version": "0.1.0",
+  "summary": "A short description of RCUserCenter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/“codecheng@icloud.com”/RCUserCenter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "“codecheng@icloud.com”": "codecheng@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/“codecheng@icloud.com”/RCUserCenter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RCUserCenter/Classes/**/*"
+}
